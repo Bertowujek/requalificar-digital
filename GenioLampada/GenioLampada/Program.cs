@@ -1,5 +1,7 @@
 ﻿using GenioLampada;
 
+Console.WriteLine("Olá Pedro");
+
 var lamp = new MagicLamp(3); //instanciar -> criar um novo objeto
 
 

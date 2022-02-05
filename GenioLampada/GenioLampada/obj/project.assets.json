@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\decke\\.nuget\\packages\\": {}
+    "C:\\Users\\Utilizador\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\requalificar-digital\\GenioLampada\\GenioLampada\\GenioLampada.csproj",
+      "projectUniqueName": "C:\\Users\\Utilizador\\Documents\\GitHub\\Pedro Git Hub\\GenioLampada\\GenioLampada\\GenioLampada.csproj",
       "projectName": "GenioLampada",
-      "projectPath": "D:\\github\\requalificar-digital\\GenioLampada\\GenioLampada\\GenioLampada.csproj",
-      "packagesPath": "C:\\Users\\decke\\.nuget\\packages\\",
-      "outputPath": "D:\\github\\requalificar-digital\\GenioLampada\\GenioLampada\\obj\\",
+      "projectPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\Pedro Git Hub\\GenioLampada\\GenioLampada\\GenioLampada.csproj",
+      "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Utilizador\\Documents\\GitHub\\Pedro Git Hub\\GenioLampada\\GenioLampada\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\decke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
